@@ -3,16 +3,6 @@
 ## Overview
 This project aims to predict stock prices using historical data and machine learning algorithms. The primary goal is to develop a predictive model that can assist investors in making informed decisions.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Model Training](#model-training)
-- [Results](#results)
-- [License](#license)
-
 ## Features
 - Historical stock price analysis
 - Data preprocessing and normalization
