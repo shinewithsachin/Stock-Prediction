@@ -14,6 +14,7 @@ This project aims to predict stock prices using historical data and machine lear
 - Python
 - Pandas
 - NumPy
+- yfinance
 - Matplotlib
 - Scikit-learn
 - Keras (TensorFlow)
