@@ -1,4 +1,5 @@
 # Stock Prediction
+https://ml-stock-prediction.streamlit.app/
 
 ## Overview
 This project aims to predict stock prices using historical data and machine learning algorithms. The primary goal is to develop a predictive model that can assist investors in making informed decisions.
