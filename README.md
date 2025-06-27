@@ -28,6 +28,20 @@ This project aims to predict stock prices using historical data and machine lear
 .git
    cd Stock-Prediction
 
+## NSE Stock Symbols for yfinance (India)
+
+Use the table below to correctly input stock symbols when using `yfinance` for Indian companies listed on the National Stock Exchange (NSE):
+
+| Company     | Symbol Input | yfinance Symbol |
+|-------------|--------------|-----------------|
+| HDFC Bank   | HDFCBANK     | HDFCBANK.NS     |
+| Infosys     | INFY         | INFY.NS         |
+| TCS         | TCS          | TCS.NS          |
+| Reliance    | RELIANCE     | RELIANCE.NS     |
+| ICICI Bank  | ICICIBANK    | ICICIBANK.NS    |
+
+> ✅ **Note**: Always append `.NS` to the symbol for NSE stocks when using `yfinance`.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
